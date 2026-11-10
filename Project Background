@@ -1,0 +1,7 @@
+1.0 INTRODUCTION 
+
+1.1 Project Background 
+
+The UiTM Auxiliary Police System (UAPS) is an integrated digital platform that provides various security services, vehicle management, and campus safety operations into a single online hub for both students and staff in all UiTM branches. One of the services platforms that is provided by  UiTM Auxiliary Police System (UAPS) is ePelekat Kenderaan which allows students to apply for vehicle stickers by submitting information related to vehicles for registration and approval purposes. 
+Although the system has provided its own interface, there are several aspects of its UI/UX that can still be improved in terms of navigation, layout consistency, information arrangement and user interaction. For example, the application form, dashboard and vehicle status page could be redesigned to provide more organized layout, clear information and a smoother user experience.
+Therefore, this project proposes to enhance the existing system interface through several improvements by providing better navigation, an organized layout and clearer application progress information to create a smoother and more user-friendly experience for users.
