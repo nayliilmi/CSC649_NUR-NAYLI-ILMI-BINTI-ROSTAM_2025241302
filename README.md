@@ -1,12 +1,15 @@
 Title: UAPS ePelekat Kenderaan System UI/UX Enhancement
 
 Project Summary:
+
 This project proposed to enhance the existing UAPS ePelekat Kenderaan interface through using Figma as selected design technology to improve the application form, application progress, and dashboard features.
 
 Problem Statement:
+
 The UAPS ePelekat Kenderaan system interface has a lengthy application form, an unorganised dashboard and limited application status tracking. 
 
 Project Documents
+
 The following documents provide further details about the project:
 
 - [Project Background](docs/Project_Background.md)
@@ -19,7 +22,9 @@ The following documents provide further details about the project:
 - [Proposed System Flowchart](docs/Proposed_System_Flowchart.png)
 
 Project Status
+
 In Progress
 
 Author
+
 Nur Nayli Ilmi Binti Rostam (2025241302)
