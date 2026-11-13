@@ -4,11 +4,14 @@
 
 The functional requirements describe the main functions of the proposed enhanced UAPS ePelekat Kenderaan interface.
 
-| ID | Functional Requirement |
-|---|---|
-| FR1 | The system shall display an organized dashboard containing application summaries information, registered vehicles and quick access to available pages. |
-| FR2 | The system shall divide the lengthy application form into separate steps by applying a tab-based interface. |
-| FR3 | The system shall validate required application fields and display an error message when the form is missing or incorrectly entered. |
-| FR4 | The system shall allow users to upload supporting documents in PDF format and display the uploaded document for view. |
-| FR5 | The system shall allow users to review all the application forms before submitting for application approval. |
-| FR6 | The system shall display application progress tracker through a visual representation. |
+| ID | FUNCTIONAL REQUIREMENT |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FR1    | The system shall display an organized dashboard containing application summaries information, registered vehicles and quick access to available pages. |
+| FR2    | The system shall divide the lengthy application form into separate steps by applying a tab-based interface. |
+| FR3    | The system shall validate required application fields and display an error message when the form is missing or incorrectly entered. |
+| FR4    | The system shall allow users to upload supporting documents in PDF format and display the uploaded document for view. |
+| FR5    | The system shall validate uploaded supporting documents based on predefined rules such as file formats. |
+| FR6    | The system shall trigger proper notifications to inform users about missing or invalid documents. |
+| FR7    | The system shall allow users to review all the application forms before submitting for application approval. |
+| FR8    | The system shall display application progress tracker through a visual representation. |
+| FR9    | The system shall allow the users to proceed to the next application processes only when all the required form and supporting documents is valid. |
