@@ -1,13 +1,13 @@
-2.2 Users and Scope (A2)
+2.2 Users and Scope (A2) 
 
 Users
-The main users for the proposed enhancement of the UAPS ePelekat Kenderaan system  are UiTM students and staff from all the branches who use the system to apply for vehicle stickers permission.  
 
+The main users for the proposed enhancement of the UAPS ePelekat Kenderaan system  are UiTM students and staff from all the branches who use the system to apply for vehicle stickers permission.  
 Scope 
 
 I. In-Scope 
 
-The project focuses on enhancing several main areas of the UAPS ePelekat Kenderaan system interface. These include redesigning the lengthy application form into separate steps by using a tab interface to improve the dashboard by organizing important information and introducing a visual application progress tracker. The improvements will also include a clear navigation and consistent interface using Figma. 
+The project focuses on enhancing several main areas of the UAPS ePelekat Kenderaan system interface. These include redesigning the lengthy application form into separate steps by using a tab interface to improve the dashboard by organizing important information and introducing a visual application progress tracker. In addition, a Rule-Based Validation Document feature will be included in a proposed enhancement within the multi-step application form process. These features will use IF-THEN rules to identify the missing application information and invalid supporting documents formats with proper trigger notifications to users. The improvements will also include a clear navigation and consistent interface using Figma. 
 
 II. Out-of-Scope 
 
