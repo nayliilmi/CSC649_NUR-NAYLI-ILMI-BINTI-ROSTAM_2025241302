@@ -12,7 +12,8 @@ Production Rule system method used to represent knowledge through IF-THEN rule s
 
 3. Forward Chaining Method
 
-Forward chaining is a method that starts with available facts and evaluates the facts against predefined rules to produce a conclusion for the actions. Then, the inference engine checks whether the condition meets the rule and activates the corresponding action to generate the results. This method is used when decisions need to be made based on information given by the users.  
+Forward chaining is a method that starts with available facts and evaluates the facts against predefined rules to produce a conclusion for the  actions. Then, the inference engine checks whether the condition meets the rule and activates the corresponding action to generate the results. This method is used when decisions need to be made based on information given by the users.  
 
 4. Production System Models
+
 The Models is a problem solving model that uses predefined rules to analyze available information facts and produce the appropriate conclusions for each action. It contains a long-term memory which stores the production rules, short-term memory which stores the facts related to the current problem and the reason process that applies the rules to the available facts. These models explain how knowledge and problems with specific information can work together to conclude decision-making.
