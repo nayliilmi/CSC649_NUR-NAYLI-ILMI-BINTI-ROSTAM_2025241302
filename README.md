@@ -41,7 +41,7 @@ System Diagrams
 
 **Project Status**
 
-In Progress
+Completed
 
 **Author**
 
